@@ -89,8 +89,11 @@ To gain a comprehensive understanding of the data set used, as well as a detaile
 
 # Contributors
 Karam Issa 
+
 Jude Hamdan
-Maria Ishaq
+
+Maria Ishaq 
+
 Jood Maaroufi
 
 
